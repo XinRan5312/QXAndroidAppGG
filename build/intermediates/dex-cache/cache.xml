@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/haha-2.0.3-28f58c464de8c256f6960963352d337fa70130a6.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/gson-2.6.1-6893c29839df8720d4f3130cb7c3f9a6fca9bebf.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-1c298f1db5ed6ce82e45080a91a17aa7677b28ff.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2-670de904611e73b0fc18735104e4bf2b26697d03.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-2fb2e31a0b9b5d50692fd8794646d84aaa24424a.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-f13a5d57cbd8ac9cc0ee69fc1ee318bfeb644915.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0-43aaea9519178fd17350f5502fa04143b039fb36.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-4eccde8558262eca1a45566d741706ff18b2156c.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-cb7e3e1715fbc495f7286cb48ce8519a8f0c3e41.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2-06d4b82ad0960e4a5e6c2190d470f1e1b594491d.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-cd57678d3d16b7b9a1a867217f656757c5646c13.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.4/5faf46d7b5f99d8bdc887ba83c7a966b426740e1/leakcanary-analyzer-1.4.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5faf46d7b5f99d8bdc887ba83c7a966b426740e1">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.4-3c321a72cc50ea58c14343aa0aeca23c65ca6965.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-15e270f8901e3235c1475434c0820ea3575893e7.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-f2ae30291b53d880fcd8c47b39f02a92712d643c.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/glide-3.7.0-a8b3185a786392b10de852bc08ab00153c9cfbcd.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.1.2-f5c53a6add22036ade6395d7811c653bbd18da67.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/rxjava-1.1.1-7f6611828b79359c9048f702a01fe28de6a13a8e.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/library-2.4.0-2723d90e7bdd68cd52a094509e8c5ae8ae49024a.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-818055e948cf82c4953c9bd8d30fc69277a7993c.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2-f3ca34938f215cd3d74d09bc978650dad2fb308e.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-1c405a207c906740d7c4ac3dbd698aa68e252c9e.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-6b282b0a0abc477e61b41b2c21109863d69ebd82.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-d8ffb2647d39719112581850677047a027a235e6.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.17/be249d63279f79d827a6bb0328b7d7938730c694/fastjson-1.2.17.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="be249d63279f79d827a6bb0328b7d7938730c694">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/fastjson-1.2.17-5237e57ad168b6f085db59c8066b3833161b47a6.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/okio-1.6.0-c9ee390390672a529f95028ae6309f8455044fad.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.4/5afc3a836f7523c7dec8ea0da5632a19b354b0a0/leakcanary-watcher-1.4.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5afc3a836f7523c7dec8ea0da5632a19b354b0a0">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.4-4ed0a8c2b95393a6b2072cdca393997509dfb249.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.github.markzhai/blockcanary-analyzer/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7cee379b68fc7e4ad24bbd1d7b18f8d235a297b2">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-d5f523c99a6b19d2843616d140870b574e8959db.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.github.markzhai/blockcanary-android/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a7c99159f66543cf055da09de800f296c97929f0">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-af02fcd15e639e01975475f952c45f28cb60c7ef.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-7fbd5f4fcc530b87353e5c913d116b186839928b.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha2-a94822e4f34bce32b053540548f40d7d6e216280.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d5e583b1683726f97ea955f0ca8dca78ac761ec5">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/classes-b2c3abd37c8c96b677fb62388d2e0b4b0ee236c7.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/englory_space/CappingNews/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/xinran/englory_space/CappingNews/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-f106620b00a74a0f5929baafcda2043fbea14ac6.jar" />
+    </item>
+
+</items>
