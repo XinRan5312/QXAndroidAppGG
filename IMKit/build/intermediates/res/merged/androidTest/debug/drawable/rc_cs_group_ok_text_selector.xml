@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:color="#999999" android:state_enabled="false"/>
-    <item android:color="#ffffff" android:state_enabled="true"/>
-</selector><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMKit/src/main/res/drawable/rc_cs_group_ok_text_selector.xml --><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMKit/build/intermediates/bundles/debug/res/drawable/rc_cs_group_ok_text_selector.xml -->

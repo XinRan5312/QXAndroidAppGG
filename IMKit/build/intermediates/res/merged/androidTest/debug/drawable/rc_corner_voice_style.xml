@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <solid android:color="@color/rc_voice_cancel" />
-
-    <corners android:radius="2dp" />
-</shape><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMKit/src/main/res/drawable/rc_corner_voice_style.xml --><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMKit/build/intermediates/bundles/debug/res/drawable/rc_corner_voice_style.xml -->

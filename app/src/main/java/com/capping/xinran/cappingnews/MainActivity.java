@@ -1,7 +1,5 @@
 package com.capping.xinran.cappingnews;
 
-
-import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
@@ -13,11 +11,9 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-
 import com.capping.xinran.cappingnews.base.BaseActivity;
 import com.capping.xinran.cappingnews.base.BaseOnClickLisener;
 import com.capping.xinran.cappingnews.global.findview.FindView;
-import com.capping.xinran.cappingnews.global.imageloader.QImageLoaderApi;
 import com.capping.xinran.cappingnews.global.imageloader.QImgLoaderManager;
 import com.capping.xinran.cappingnews.global.net.RequestsManager;
 import com.capping.xinran.cappingnews.global.net.retrofit.QSimpleSubscriber;

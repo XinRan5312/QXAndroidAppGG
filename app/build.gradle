@@ -56,5 +56,8 @@ dependencies {
     compile 'com.loopj.android:android-async-http:1.4.9'
     //    compile project(':IMKit')
     //    configurations { all*.exclude group: 'com.android.support', module: 'support-v4' }
-    compile project(':IMKit')
+    compile project(':IMRongCallKit')
+    compile files('/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/agora-rtc-sdk.jar')
+    compile files('/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/Rong_IMKit_v2_7_3.jar')
 }
+//apply plugin: 'com.google.gms.google-services'
