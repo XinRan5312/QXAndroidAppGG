@@ -4,10 +4,12 @@ import android.animation.Animator;
 import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.util.AttributeSet;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.PopupWindow;
@@ -188,7 +190,10 @@ public class ConstomSpinerButton extends LinearLayout {
             onMeasured(v);
 
             // 必须设置
-            setWidth(500);
+            WindowManager wm= (WindowManager) getContext().getSystemService(Context.WINDOW_SERVICE);
+            DisplayMetrics outMetric=new DisplayMetrics();
+            wm.getDefaultDisplay().getMetrics(outMetric);
+            setWidth((int) (outMetric.widthPixels*0.818f));
             setHeight(LayoutParams.WRAP_CONTENT);
             setContentView(v);
             setFocusable(true);

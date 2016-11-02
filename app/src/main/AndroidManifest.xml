@@ -14,13 +14,10 @@
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name="com.capping.xinran.cappingnews.base.webview.WebActivity"></activity>
-
-
     </application>
     <meta-data android:name="com.capping.xinran.cappingnews.global.imageloader.QGlideModule"
         android:value="GlideModule"/>

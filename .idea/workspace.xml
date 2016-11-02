@@ -10,422 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae0e6b0b-2dd7-4884-81c0-cd67dbc4b1ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_fund_spinder.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_spiner_up.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/CustomConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMRongCallKit/IMRongCallKit.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestConstomSpinnerButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/popup_enter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/popup_exit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/rotate_img.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/spinner_dropdown_items.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/test_custom_spinner_button_act.xml" />
-      <change type="DELETED" beforePath="D:\mygithub\QXAndroidAppGG\.idea\libraries\IMRongCallKit_unspecified.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/AudioCallInputProvider$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/AudioCallInputProvider$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/AudioCallInputProvider.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/AudioCallInputProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$1$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$3.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$4.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$5.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$6.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/BaseCallActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider$ViewHolder.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallEndMessageItemProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$3$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$3$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$3.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$4.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallFloatBoxView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$3.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$4.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$ListAdapter.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$ListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$ViewHolder.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallSelectMemberActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallUserGridView.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/CallUserGridView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/outputs/aar/IMRongCallKit-release.aar" afterPath="$PROJECT_DIR$/IMRongCallKit/build/outputs/aar/IMRongCallKit-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$3$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$3$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$3.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$4.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$5.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$6.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$7.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiAudioCallActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$3.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$4.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$5.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/MultiVideoCallActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallAction.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallKit$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallKit$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallKit$CallMediaType.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallKit$CallMediaType.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallKit.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallKit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallReceiver.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallService$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallService$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallService.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/RongCallService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$1$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$2.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$3.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$4.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$5.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$6.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/SingleCallActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/VideoCallInputProvider$1.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/VideoCallInputProvider$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/VideoCallInputProvider.class" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/classes/release/io/rong/imkit/VideoCallInputProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/dialog/CustomDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestCustomFragmentDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_fragment_dialog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fragment_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/global/net/asynchttp/AsyncHttpNetApi.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/global/net/asynchttp/AsyncHttpNetApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/generated/source/buildConfig/release/io/rong/imkit/BuildConfig.java" afterPath="$PROJECT_DIR$/IMRongCallKit/build/generated/source/buildConfig/release/io/rong/imkit/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Rong_IMKit_v2_7_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Rong_IMKit_v2_7_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/agora_rtc_sdk.xml" afterPath="$PROJECT_DIR$/.idea/libraries/agora_rtc_sdk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_0_0_alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0_alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/blockcanary_android_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/blockcanary_android_1_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/incremental/mergeResourcesrelease/merger.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/incremental/mergeResourcesrelease/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/incremental/packageResourcesrelease/merger.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/incremental/packageResourcesrelease/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_albums.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_albums.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_albums.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_albums.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ac_btn_file_download_open_button.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ac_btn_file_download_open_button.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ac_btn_file_download_open_button.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ac_btn_file_download_open_button.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_camera.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_camera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_camera.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_camera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_file_download.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_file_download.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_file_download.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_file_download.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_file_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_file_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_file_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_file_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_file_manager.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_file_manager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_file_manager.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_file_manager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_picture_pager.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_picture_pager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_picture_pager.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_picture_pager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_webview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_ac_webview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_webview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_ac_webview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_an_voice_receive.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_an_voice_receive.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_an_voice_receive.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_an_voice_receive.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_an_voice_sent.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_an_voice_sent.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_an_voice_sent.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_an_voice_sent.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_editinput.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_editinput.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_editinput.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_editinput.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_mentionlist_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_mentionlist_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_mentionlist_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_mentionlist_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_menu.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_menu.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_sidebar.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_bg_sidebar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_sidebar.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_bg_sidebar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_input.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_input.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_input.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_input.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_public_service_enter_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_public_service_enter_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_public_service_enter_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_public_service_enter_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_public_service_unfollow_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_public_service_unfollow_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_public_service_unfollow_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_public_service_unfollow_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_send.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_send.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_send.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_send.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_voice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_btn_voice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_voice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_btn_voice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_corner_location_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_corner_location_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_corner_location_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_corner_location_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_corner_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_corner_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_corner_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_corner_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_corner_voice_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_corner_voice_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_corner_voice_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_corner_voice_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_alert_human_evaluation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_alert_human_evaluation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_alert_human_evaluation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_alert_human_evaluation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_alert_robot_evaluation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_alert_robot_evaluation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_alert_robot_evaluation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_alert_robot_evaluation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_alert_warning.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_alert_warning.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_alert_warning.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_alert_warning.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_corner_single_check_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_corner_single_check_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_corner_single_check_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_corner_single_check_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_checkbox_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_checkbox_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_checkbox_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_checkbox_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_dialog_cancel_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_dialog_cancel_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_dialog_cancel_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_dialog_cancel_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_dialog_ok_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_dialog_ok_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_dialog_ok_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_dialog_ok_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_ok_text_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_group_ok_text_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_ok_text_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_group_ok_text_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_item_single_choice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_item_single_choice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_item_single_choice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_item_single_choice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_list_divider_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_cs_list_divider_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_list_divider_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_cs_list_divider_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_single_choice_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_cs_single_choice_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_single_choice_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_cs_single_choice_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ed_public_service_search_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ed_public_service_search_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ed_public_service_search_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ed_public_service_search_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_emoji_gridview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_emoji_gridview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_emoji_gridview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_emoji_gridview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_emoji_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_emoji_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_emoji_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_emoji_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_conversation_member_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_conversation_member_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_conversation_member_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_conversation_member_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_conversationlist.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_conversationlist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_conversationlist.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_conversationlist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_dialog_alter.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_dialog_alter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_dialog_alter.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_dialog_alter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_file_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_file_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_file_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_file_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_image.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_image.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_image.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_image.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_messageinput.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_messageinput.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_messageinput.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_messageinput.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_messagelist.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_messagelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_messagelist.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_messagelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_photo.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_photo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_photo.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_photo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_public_service_inf.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_public_service_inf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_public_service_inf.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_public_service_inf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_public_service_search.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_public_service_search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_public_service_search.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_public_service_search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_public_service_sub_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fr_public_service_sub_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_public_service_sub_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fr_public_service_sub_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fragment_base_setting.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_fragment_base_setting.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fragment_base_setting.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_fragment_base_setting.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_admin_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_admin_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_admin_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_admin_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_camera.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_camera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_camera.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_camera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_extend.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_extend.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_extend.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_extend.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_files.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_files.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_keyboard.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_keyboard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_keyboard.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_keyboard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_location.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_location.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_location.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_location.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_no_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_no_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_no_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_no_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_phone.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_phone.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_phone.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_phone.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_picture.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_picture.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_picture.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_picture.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_smiley.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_smiley.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_smiley.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_smiley.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_star_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_star_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_star_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_star_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_text.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_text.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_video.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_video.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_video.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_video.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_voice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_voice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_voice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_voice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_yes_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_ic_yes_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_yes_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_ic_yes_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_input_pager_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_input_pager_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_input_pager_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_input_pager_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_app_service_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_app_service_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_app_service_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_app_service_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_base_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_base_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_base_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_base_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_conversation_member.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_conversation_member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_conversation_member.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_conversation_member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_discussion_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_discussion_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_discussion_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_discussion_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_discussion_notification_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_discussion_notification_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_discussion_notification_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_discussion_notification_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_file_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_file_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_file_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_file_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_group_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_group_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_group_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_group_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_image_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_image_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_image_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_image_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_information_notification_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_information_notification_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_information_notification_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_information_notification_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_item_list_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_item_list_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_item_list_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_item_list_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_location_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_location_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_location_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_location_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_preview_fragment.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_preview_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_preview_fragment.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_preview_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_progress.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_progress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_progress.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_progress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_input_menu.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_input_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menu.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_input_menu_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_input_menu_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menu_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menu_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_input_menus.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_input_menus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menus.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_list.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_multi_rich_content_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_multi_rich_content_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_multi_rich_content_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_multi_rich_content_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_rich_content_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_rich_content_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_rich_content_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_rich_content_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_search.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_public_service_search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_search.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_public_service_search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_rich_content_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_rich_content_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_rich_content_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_rich_content_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_system_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_system_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_system_conversation.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_system_conversation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_text_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_text_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_text_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_text_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_text_message_evaluate.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_text_message_evaluate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_text_message_evaluate.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_text_message_evaluate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_item_top_list_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_item_top_list_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_item_top_list_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_item_top_list_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_voice_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_item_voice_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_voice_message.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_item_voice_message.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_mention_list_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_mention_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_mention_list_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_mention_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_mention_members.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_mention_members.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_mention_members.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_mention_members.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_notification_connecting_animated.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_notification_connecting_animated.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_notification_connecting_animated.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_notification_connecting_animated.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_pb_file_download_progress.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_pb_file_download_progress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_pb_file_download_progress.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_pb_file_download_progress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_pic_popup_window.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_pic_popup_window.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_pic_popup_window.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_pic_popup_window.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picprev_activity.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picprev_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picprev_activity.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picprev_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_activity.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_activity.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_catalog_listview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_catalog_listview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_catalog_listview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_catalog_listview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_grid_camera.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_grid_camera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_grid_camera.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_grid_camera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_grid_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_picsel_grid_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_grid_item.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_picsel_grid_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_plugin_gridview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_plugin_gridview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_plugin_gridview.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_plugin_gridview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_progress_sending_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_progress_sending_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_progress_sending_style.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_progress_sending_style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_read_receipt_request_button.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_read_receipt_request_button.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_read_receipt_request_button.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_read_receipt_request_button.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_sel_picsel_toolbar_back.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_sel_picsel_toolbar_back.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_sel_picsel_toolbar_back.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_sel_picsel_toolbar_back.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_sel_picsel_toolbar_send.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_sel_picsel_toolbar_send.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_sel_picsel_toolbar_send.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_sel_picsel_toolbar_send.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_selector_grid_camera_mask.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_selector_grid_camera_mask.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_selector_grid_camera_mask.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_selector_grid_camera_mask.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_sp_grid_mask.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_sp_grid_mask.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_sp_grid_mask.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_sp_grid_mask.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_switch_btn.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_switch_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_switch_btn.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_switch_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_ac_muti_audio.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_ac_muti_audio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_ac_muti_audio.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_ac_muti_audio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_activity_select_member.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_activity_select_member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_activity_select_member.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_activity_select_member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_activity_single_call.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_activity_single_call.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_activity_single_call.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_activity_single_call.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_audio_answer_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_audio_answer_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_audio_answer_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_audio_answer_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_audio_call_user_info.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_audio_call_user_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_audio_call_user_info.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_audio_call_user_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_call_bottom_connected_button_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_call_bottom_connected_button_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_call_bottom_connected_button_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_call_bottom_connected_button_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_call_bottom_incoming_button_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_call_bottom_incoming_button_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_call_bottom_incoming_button_layout.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_call_bottom_incoming_button_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_camera_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_camera_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_camera_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_camera_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_checkbox.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_checkbox.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_contact_container.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_contact_container.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_contact_container.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_contact_container.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_float_bg.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_float_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_float_bg.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_float_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_float_box.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_float_box.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_float_box.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_float_box.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_hangup_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_hangup_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_hangup_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_hangup_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_item_incoming_maudio.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_item_incoming_maudio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_item_incoming_maudio.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_item_incoming_maudio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_item_outgoing_maudio.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_item_outgoing_maudio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_item_outgoing_maudio.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_item_outgoing_maudio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_listitem_select_member.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_listitem_select_member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_listitem_select_member.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_listitem_select_member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_multi_video_call.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_multi_video_call.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_multi_video_call.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_multi_video_call.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_multi_video_calling_bottom_view.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_multi_video_calling_bottom_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_multi_video_calling_bottom_view.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_multi_video_calling_bottom_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_multi_video_top_view.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_multi_video_top_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_multi_video_top_view.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_multi_video_top_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_mute_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_mute_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_mute_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_mute_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_speaker_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_speaker_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_speaker_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_speaker_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_user_info.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_user_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_user_info.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_user_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_user_portrait.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_user_portrait.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_user_portrait.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_user_portrait.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_vedio_answer_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/drawable/rc_voip_vedio_answer_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_vedio_answer_selector.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/drawable/rc_voip_vedio_answer_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_video_call_user_info.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_video_call_user_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_video_call_user_info.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_video_call_user_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_viewlet_remote_user.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_voip_viewlet_remote_user.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_viewlet_remote_user.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_voip_viewlet_remote_user.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_block.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_block.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_block.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_block.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_block_popup.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_block_popup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_block_popup.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_block_popup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_file_list_adapter.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_file_list_adapter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_file_list_adapter.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_file_list_adapter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_input.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_input.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_input.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_input.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_notice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_notice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_notice.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_notice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_plugins.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_plugins.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_plugins.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_plugins.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_text_btn.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_text_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_text_btn.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_text_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_txt_provider.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_txt_provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_txt_provider.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_txt_provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_vo_popup.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_vo_popup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_vo_popup.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_vo_popup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_vo_provider.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/layout/rc_wi_vo_provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_vo_provider.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/layout/rc_wi_vo_provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_0_0_alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/values-en/values-en.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/values-en/values-en.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/values-sw/values-sw.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/values-sw/values-sw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/values-sw/values-sw.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/values-sw/values-sw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/values/values.xml" afterPath="$PROJECT_DIR$/IMRongCallKit/build/intermediates/res/merged/release/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="QXAndroidAppGG.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -455,32 +52,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AsyncHttpNetApi.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AsyncHttpNetApi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/global/net/asynchttp/AsyncHttpNetApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9097473">
+            <state vertical-scroll-proportion="0.0">
               <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomConstants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/CustomConstants.java">
+      <file leaf-file-name="CustomDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/dialog/CustomDialog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding />
+              <caret line="34" column="55" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -489,70 +78,33 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="52" />
+              <caret line="195" column="59" selection-start-line="195" selection-start-column="59" selection-end-line="195" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestConstomSpinnerButton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestConstomSpinnerButton.java">
+      <file leaf-file-name="custom_fragment_dialog.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_fragment_dialog.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.266666">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCustomFragmentDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestCustomFragmentDialog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="51" />
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#874#1838#0" expanded="true" />
-                <element signature="e#1431#1739#0" expanded="true" />
-                <element signature="e#1738#1739#0" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_custom_spinner_button_act.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test_custom_spinner_button_act.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.466667">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spinner_dropdown_items.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/spinner_dropdown_items.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup_exit.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/popup_exit.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -561,7 +113,27 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.0">
+              <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.55595666">
+              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -573,6 +145,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -2840,13 +2413,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/test_custom_spinner_button_act.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestConstomSpinnerButton.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/global/net/asynchttp/AsyncHttpNetApi.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/fragment_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/dialog/TestCustomFragmentDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/custom_fragment_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/dialog/CustomDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestCustomFragmentDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -3091,82 +2670,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cappingnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QXAndroidAppGG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QXAndroidAppGG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cappingnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QXAndroidAppGG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QXAndroidAppGG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -3193,6 +2696,8 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="6R2QAX14B4002010" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -3202,6 +2707,9 @@
       <recent name="D:\mygithub\QXAndroidAppGG\app\src\main\res\layout" />
       <recent name="D:\mygithub\QXAndroidAppGG\app\src\main\res\drawable" />
       <recent name="D:\mygithub\QXAndroidAppGG\app\src\main\res" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.capping.xinran.cappingnews" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -3403,7 +2911,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -3412,7 +2920,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3471,14 +2979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/spinner_dropdown_items.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3488,14 +2988,6 @@
       </provider>
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="52" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestConstomSpinnerButton.java">
@@ -3523,14 +3015,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3539,10 +3023,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/global/net/asynchttp/AsyncHttpNetApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9097473">
+        <state vertical-scroll-proportion="0.0">
           <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_fragment_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.266666">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/fragment_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20216607">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/dialog/CustomDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/views/ConstomSpinerButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="59" selection-start-line="195" selection-start-column="59" selection-end-line="195" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capping/xinran/cappingnews/customs/test/TestCustomFragmentDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55595666">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
           <folding />
         </state>
       </provider>
