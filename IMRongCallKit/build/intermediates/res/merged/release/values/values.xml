@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_file_suffix.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_file_suffix.xml -->
     <eat-comment/>
     <array name="rc_audio_file_suffix">
         <item>.mp3</item>
@@ -17,7 +17,7 @@
         <item>.wav</item>
         <item>.wma</item>
     </array>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_emoji.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_emoji.xml -->
     <eat-comment/>
     <integer-array name="rc_emoji_code">
             <item>0x1f60a</item>
@@ -279,7 +279,7 @@
         <item>@drawable/u1f680</item>
         <item>@drawable/u23f3</item>
     </array>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_file_suffix.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_file_suffix.xml -->
     <eat-comment/>
     <array name="rc_excel_file_suffix">
         <item>.xla</item>
@@ -373,7 +373,7 @@
         <item>.dot</item>
         <item>.docx</item>
     </array>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
     <eat-comment/>
     <bool name="rc_enable_mentioned_message">false</bool>
     <bool name="rc_enable_message_recall">false</bool>
@@ -382,10 +382,10 @@
     <bool name="rc_play_audio_continuous">true</bool>
     <bool name="rc_read_receipt">false</bool>
     <bool name="rc_stop_custom_service_when_quit">true</bool>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
     <eat-comment/>
     <bool name="rc_typing_status">false</bool>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_color.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_color.xml -->
     <eat-comment/>
     <color name="rc_ad_file_list_no_select_file_text_state">#9fcdfd</color>
     <color name="rc_ad_file_list_select_file_text_state">#ffffff</color>
@@ -430,12 +430,12 @@
     <color name="rc_web_progress_bar">#9fcdfd</color>
     <declare-styleable name="AsyncImageView"><attr format="dimension" name="RCMinShortSideSize"/><attr format="dimension" name="RCCornerRadius"/><attr format="boolean" name="RCMask"/><attr name="RCShape"><flag name="square" value="0"/><flag name="circle" value="1"/></attr><attr format="reference" name="RCDefDrawable"/></declare-styleable>
     <declare-styleable name="InputView"><attr name="RCStyle"><enum name="SCE" value="0x123"/><enum name="CES" value="0x231"/><enum name="ECS" value="0x321"/><enum name="CSE" value="0x213"/><enum name="SC" value="0x120"/><enum name="CS" value="0x21"/><enum name="EC" value="0x320"/><enum name="CE" value="0x023"/><enum name="C" value="0x020"/></attr></declare-styleable>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_dimens.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_dimens.xml -->
     <eat-comment/>
     <dimen name="rc_conversation_item_data_size">14sp</dimen>
     <dimen name="rc_conversation_item_name_size">16sp</dimen>
     <dimen name="rc_conversation_item_time_size">13sp</dimen>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_ids.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_ids.xml -->
     <eat-comment/>
     <item name="rc_actionbar" type="id"/>
     <item name="rc_back" type="id"/>
@@ -493,21 +493,21 @@
     <item name="rc_user_name" type="id"/>
     <item name="rc_user_portrait" type="id"/>
     <item name="rc_warning" type="id"/>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
     <eat-comment/>
     <integer name="rc_audio_encoding_bit_rate">7950</integer>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
     <eat-comment/>
     <integer name="rc_chatroom_first_pull_message_count">10</integer>
     <integer name="rc_custom_service_evaluation_interval">60</integer>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
     <eat-comment/>
     <integer name="rc_image_quality">85</integer>
     <integer name="rc_image_size">960</integer>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
     <eat-comment/>
     <integer name="rc_message_recall_interval">120</integer>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_strings.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_strings.xml -->
     <eat-comment/>
     <string name="rc_ac_file_download_btn">开始下载</string>
     <string name="rc_ac_file_download_open_file_btn">用其他应用打开</string>
@@ -595,10 +595,10 @@
     <string name="rc_fr_storage_folder_list_no_files">无法读取%1$s中的文件</string>
     <string name="rc_fr_storage_folder_list_search">搜索</string>
     <string name="rc_friday_format">周五</string>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_config.xml -->
     <eat-comment/>
     <string name="rc_image_default_saved_path">/RongCloud/Image/</string>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_strings.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_strings.xml -->
     <eat-comment/>
     <string name="rc_info_forbidden_to_talk">您当前在群组中被禁言</string>
     <string name="rc_info_not_in_chatroom">你不在该聊天室</string>
@@ -609,10 +609,10 @@
     <string name="rc_input_voice">按住 说话</string>
     <string name="rc_join_chatroom_failure">加入聊天室失败</string>
     <string name="rc_kicked_from_chatroom">你已被踢出聊天室</string>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_configuration.xml -->
     <eat-comment/>
     <string name="rc_media_message_default_save_path">/RongCloud/Media/</string>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_strings.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_strings.xml -->
     <eat-comment/>
     <string name="rc_message_content_draft">[草稿]</string>
     <string name="rc_message_content_file">[文件]</string>
@@ -750,7 +750,7 @@
     <string name="rc_yes">是</string>
     <string name="rc_yesterday_format">昨天</string>
     <string name="rc_you_recalled_a_message">你撤回了一条消息</string>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_theme.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_theme.xml -->
     <eat-comment/>
     <style name="RCTheme" parent="@android:style/Theme.Light">
         <item name="android:listDivider">@android:color/transparent</item>
@@ -818,7 +818,7 @@
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:background">@android:color/transparent</item>
     </style>
-    <!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_style.xml -->
+    <!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values/rc_style.xml -->
     <eat-comment/>
     <style name="horizontal_light_thin_divider">
         <item name="android:layout_height">0.5dp</item>

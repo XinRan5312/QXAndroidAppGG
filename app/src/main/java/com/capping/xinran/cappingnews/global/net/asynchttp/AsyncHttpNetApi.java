@@ -95,7 +95,7 @@ public class AsyncHttpNetApi implements NetApiFlagInterface {
             RequestHandle requestHandle = mRequestHandleMap.get(key).get();
             if (requestHandle != null && !requestHandle.isCancelled()) {
                 requestHandle.cancel(mayInterruptIfRunning);
-                mRequestHandleMap.remove(key, mRequestHandleMap.get(key));
+                mRequestHandleMap.remove(key);
             }
         }
     }

@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/rc_ic_no_hover" android:state_selected="true"/>
     <item android:drawable="@drawable/rc_ic_no"/>
-</selector><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_ic_no_selector.xml -->
+</selector><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_ic_no_selector.xml -->

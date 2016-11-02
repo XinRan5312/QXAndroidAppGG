@@ -51,4 +51,4 @@
             android:text="@string/rc_voip_call_waiting" />
     </RelativeLayout>
 </RelativeLayout>
-<!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_audio_call_user_info.xml -->
+<!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_audio_call_user_info.xml -->

@@ -11,4 +11,4 @@
         android:divider="#D3D3D3"
         android:dividerHeight="0.5dp"
         android:id="@+id/rc_list"/>
-</LinearLayout><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_fr_public_service_sub_list.xml -->
+</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_fr_public_service_sub_list.xml -->

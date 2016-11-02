@@ -7,4 +7,4 @@
     <item android:drawable="@drawable/rc_voip_video_answer_hover" android:state_focused="true" android:state_pressed="false" android:state_selected="false"/>
     <!-- Pressed -->
     <item android:drawable="@drawable/rc_voip_video_answer_hover" android:state_pressed="true"/>
-</selector><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_voip_vedio_answer_selector.xml -->
+</selector><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_voip_vedio_answer_selector.xml -->

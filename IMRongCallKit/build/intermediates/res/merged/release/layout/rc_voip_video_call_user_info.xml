@@ -34,4 +34,4 @@
         android:layout_centerHorizontal="true"
         style="@style/rc_voip_text_style_style"
         android:text="@string/rc_voip_call_waiting" />
-</RelativeLayout><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_video_call_user_info.xml -->
+</RelativeLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_video_call_user_info.xml -->

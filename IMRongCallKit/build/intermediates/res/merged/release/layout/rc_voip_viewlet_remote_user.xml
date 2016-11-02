@@ -42,4 +42,4 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:onClick="onSwitchRemoteUsers"/>
-</RelativeLayout><!-- From: file:/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_viewlet_remote_user.xml -->
+</RelativeLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_viewlet_remote_user.xml -->
