@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="agora-rtc-sdk">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/agora-rtc-sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IMRongCallKit/src/main/libs/agora-rtc-sdk.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
