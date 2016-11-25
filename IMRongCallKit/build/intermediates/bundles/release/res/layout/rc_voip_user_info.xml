@@ -42,4 +42,4 @@
         android:gravity="center"
         android:text="Susan"
         android:textColor="#ffffff" />
-</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_user_info.xml -->
+</LinearLayout>

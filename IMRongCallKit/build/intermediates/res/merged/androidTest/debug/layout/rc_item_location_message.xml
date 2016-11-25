@@ -28,4 +28,4 @@
         android:textColor="@android:color/white"
         android:maxLines="2"
         android:textSize="14sp" />
-</io.rong.imkit.widget.RCMessageFrameLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_item_location_message.xml --><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/bundles/debug/res/layout/rc_item_location_message.xml -->
+</io.rong.imkit.widget.RCMessageFrameLayout>

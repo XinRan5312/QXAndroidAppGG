@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/res/merged/release/values-sw/values-sw.xml",
+        "outputFile": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\build\\intermediates\\res\\merged\\release\\values-sw\\values-sw.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 128
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-sw/rc_notification_string.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-sw\\rc_notification_string.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 133,
+                        "startOffset": 137,
                         "endColumn": 92,
-                        "endOffset": 221
+                        "endOffset": 225
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 222
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-sw/rc_notification_string.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-sw\\rc_notification_string.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 226,
+                        "startOffset": 231,
                         "endColumn": 108,
-                        "endOffset": 330
+                        "endOffset": 335
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 299
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-sw/rc_notification_string.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-sw\\rc_notification_string.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 76,
-                        "endOffset": 128
+                        "endOffset": 131
                     }
                 }
             }

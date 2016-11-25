@@ -87,4 +87,4 @@
             android:visibility="gone"/>
     </FrameLayout>
 
-</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_fr_file_list.xml --><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/bundles/debug/res/layout/rc_fr_file_list.xml -->
+</LinearLayout>

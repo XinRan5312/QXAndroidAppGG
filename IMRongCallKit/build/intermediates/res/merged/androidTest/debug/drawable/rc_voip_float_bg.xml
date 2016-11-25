@@ -9,4 +9,4 @@
     <corners android:radius="3dp"/>
 
     <size android:width="60dp" android:height="80dp" />
-</shape><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_voip_float_bg.xml --><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/bundles/debug/res/drawable/rc_voip_float_bg.xml -->
+</shape>

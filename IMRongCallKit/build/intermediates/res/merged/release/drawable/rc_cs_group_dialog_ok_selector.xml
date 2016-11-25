@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/rc_cs_group_ok_disabled" android:state_enabled="false"/>
     <item android:drawable="@drawable/rc_cs_group_ok_normal"/>
 
-</selector><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_cs_group_dialog_ok_selector.xml -->
+</selector>

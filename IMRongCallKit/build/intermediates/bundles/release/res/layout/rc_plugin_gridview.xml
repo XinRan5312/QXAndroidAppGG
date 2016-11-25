@@ -11,4 +11,4 @@
     android:stretchMode="columnWidth"
     android:verticalSpacing="17dp">
 
-</GridView><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_plugin_gridview.xml -->
+</GridView>

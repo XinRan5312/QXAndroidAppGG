@@ -6,4 +6,4 @@
     <item android:state_pressed="false"><color android:color="#ffffff" />
     </item>
 
-</selector><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_bg_mentionlist_item.xml -->
+</selector>

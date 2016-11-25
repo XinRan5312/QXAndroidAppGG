@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/rc_voip_disable_camera_hover" android:state_selected="true"/>
     <item android:drawable="@drawable/rc_voip_disable_camera"/>
-</selector><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_voip_camera_selector.xml --><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/bundles/debug/res/drawable/rc_voip_camera_selector.xml -->
+</selector>

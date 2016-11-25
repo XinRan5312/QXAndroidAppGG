@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "24.0.2"
 
     defaultConfig {
         applicationId "com.capping.xinran.cappingnews"
@@ -29,6 +29,88 @@ android {
             buildConfigField "boolean", "LEAKCANARY_ENABLED", "false"
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    productFlavors {
+        defaultFlavor {
+            // 每个环境包名不同
+            applicationId "com.capping.xinran.cappingnews"
+            // 动态添加 string.xml 字段；
+            // 注意，这里是添加，在 string.xml 不能有这个字段，会重名！！！
+            resValue "string", "app_name", "default"
+            resValue "bool", "isrRank", 'false'
+            // 动态修改 常量 字段
+            buildConfigField "String", "ENVIRONMENT", '"def"'
+            // 修改 AndroidManifest.xml 里渠道变量和APP 桌面Icon
+            manifestPlaceholders = [UMENG_CHANNEL_ID: "defalut",
+                                    app_icon: "@drawable/ic_launcher"]
+        }
+        baidu {
+            applicationId "com.capping.xinran.cappingnews.baidu"
+            // 动态添加 string.xml 字段；
+            // 注意，这里是添加，在 string.xml 不能有这个字段，会重名！！！
+            resValue "string", "app_name", "baidu"
+            resValue "bool", "isrRank", 'true'
+            // 动态修改 常量 字段
+            buildConfigField "String", "ENVIRONMENT", '"baidu"'
+            // 修改 AndroidManifest.xml 里渠道变量
+            manifestPlaceholders = [UMENG_CHANNEL_ID: "baidu",
+                                    app_icon: "@drawable/icon_uc_normal"]
+        }
+        google {
+            applicationId "com.capping.xinran.cappingnews.google"
+            // 动态添加 string.xml 字段；
+            // 注意，这里是添加，在 string.xml 不能有这个字段，会重名！！！
+            resValue "string", "app_name", "google"
+            resValue "bool", "isrRank", 'true'
+            // 动态修改 常量 字段
+            buildConfigField "String", "ENVIRONMENT", '"google"'
+            // 修改 AndroidManifest.xml 里渠道变量
+            manifestPlaceholders = [UMENG_CHANNEL_ID: "google",
+                                    app_icon: "@drawable/loading_01"]
+        }
+        wandoujia {
+            applicationId "com.capping.xinran.cappingnews.wandoujia"
+            // 动态添加 string.xml 字段；
+            // 注意，这里是添加，在 string.xml 不能有这个字段，会重名！！！AndroidManifest中刚开始会引用不到，build一下就好了
+            resValue "string", "app_name", "wandoujia"
+            resValue "bool", "isrRank", 'false'
+            // 动态修改 常量 字段
+            buildConfigField "String", "ENVIRONMENT", '"wandoujia"'
+            // 修改 AndroidManifest.xml 里渠道变量
+            manifestPlaceholders = [UMENG_CHANNEL_ID: "wandoujia",
+                                    app_icon: "@drawable/ic_launcher"]
+        }
+        xiaomi {
+            applicationId "com.capping.xinran.cappingnews.xiaomi"
+            // 动态添加 string.xml 字段；
+            // 注意，这里是添加，在 string.xml 不能有这个字段，会重名！！！
+            resValue "string", "app_name", "xiaomi"
+            resValue "bool", "isrRank", 'true'
+            // 动态修改 常量 字段
+            buildConfigField "String", "ENVIRONMENT", '"xiaomi"'
+            // 修改 AndroidManifest.xml 里渠道变量
+            manifestPlaceholders = [UMENG_CHANNEL_ID: "xiaomi",
+                                    app_icon: "@drawable/ic_launcher"]
+        }
+        huawei {
+            applicationId "com.capping.xinran.cappingnews.huawei"
+            // 动态添加 string.xml 字段；
+            // 注意，这里是添加，在 string.xml 不能有这个字段，会重名！！！
+            resValue "string", "app_name", "huawei"
+            resValue "bool", "isrRank", 'true'
+            // 动态修改 常量 字段
+            buildConfigField "String", "ENVIRONMENT", '"huawei"'
+            // 修改 AndroidManifest.xml 里渠道变量
+            manifestPlaceholders = [UMENG_CHANNEL_ID: "huawei",
+                                    app_icon: "@drawable/ic_launcher"]
+        }
+    }
+    //移除lint错误
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
     }
 }
 
@@ -57,7 +139,7 @@ dependencies {
     //    compile project(':IMKit')
     //    configurations { all*.exclude group: 'com.android.support', module: 'support-v4' }
     compile project(':IMRongCallKit')
-    compile files('/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/agora-rtc-sdk.jar')
-    compile files('/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/Rong_IMKit_v2_7_3.jar')
+//    compile files('/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/agora-rtc-sdk.jar')
+//    compile files('/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/libs/Rong_IMKit_v2_7_3.jar')
 }
 //apply plugin: 'com.google.gms.google-services'

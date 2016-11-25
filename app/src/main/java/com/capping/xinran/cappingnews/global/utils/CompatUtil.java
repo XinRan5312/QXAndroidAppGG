@@ -8,11 +8,6 @@ import android.view.View;
  */
 public enum CompatUtil {
     ;
-    static final int API3 = 3;
-    static final int API4 = 4;
-    static final int API5 = 5;
-    static final int API8 = 8;
-	static final int API11 = 11;
     static int version = android.os.Build.VERSION.SDK_INT;
 
     public static int getSDKVersion() {

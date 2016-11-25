@@ -9,4 +9,4 @@
     <!-- Pressed -->
     <item android:drawable="@color/rc_conversation_list_divider_color" android:state_pressed="true"/>
 
-</selector><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/drawable/rc_item_list_selector.xml -->
+</selector>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/res/merged/release/values-en/values-en.xml",
+        "outputFile": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\build\\intermediates\\res\\merged\\release\\values-en\\values-en.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 101
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 4,
-                        "startOffset": 7874,
+                        "startOffset": 7997,
                         "endColumn": 50,
-                        "endOffset": 7920
+                        "endOffset": 8043
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 10718,
+                        "startOffset": 10893,
                         "endColumn": 80,
-                        "endOffset": 10794
+                        "endOffset": 10969
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 135,
                         "startColumn": 4,
-                        "startOffset": 8640,
+                        "startOffset": 8775,
                         "endColumn": 80,
-                        "endOffset": 8716
+                        "endOffset": 8851
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 338
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 131,
                         "startColumn": 4,
-                        "startOffset": 8383,
+                        "startOffset": 8514,
                         "endColumn": 74,
-                        "endOffset": 8453
+                        "endOffset": 8584
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 406
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 134,
                         "startColumn": 4,
-                        "startOffset": 8572,
+                        "startOffset": 8706,
                         "endColumn": 67,
-                        "endOffset": 8635
+                        "endOffset": 8769
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 477
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 4,
-                        "startOffset": 8312,
+                        "startOffset": 8442,
                         "endColumn": 70,
-                        "endOffset": 8378
+                        "endOffset": 8508
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 522
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 10364,
+                        "startOffset": 10533,
                         "endColumn": 44,
-                        "endOffset": 10404
+                        "endOffset": 10573
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 582
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
-                        "startOffset": 10995,
+                        "startOffset": 11176,
                         "endColumn": 59,
-                        "endOffset": 11050
+                        "endOffset": 11231
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 629
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
-                        "startOffset": 10317,
+                        "startOffset": 10485,
                         "endColumn": 46,
-                        "endOffset": 10359
+                        "endOffset": 10527
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 714
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 2615,
+                        "startOffset": 2651,
                         "endColumn": 84,
-                        "endOffset": 2695
+                        "endOffset": 2731
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 809
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 2038,
+                        "startOffset": 2067,
                         "endColumn": 94,
-                        "endOffset": 2128
+                        "endOffset": 2157
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 895
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 2700,
+                        "startOffset": 2737,
                         "endColumn": 85,
-                        "endOffset": 2781
+                        "endOffset": 2818
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 978
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 2290,
+                        "startOffset": 2322,
                         "endColumn": 82,
-                        "endOffset": 2368
+                        "endOffset": 2400
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 1061
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 2373,
+                        "startOffset": 2406,
                         "endColumn": 82,
-                        "endOffset": 2451
+                        "endOffset": 2484
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1139
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 2212,
+                        "startOffset": 2243,
                         "endColumn": 77,
-                        "endOffset": 2285
+                        "endOffset": 2316
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1223
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 2786,
+                        "startOffset": 2824,
                         "endColumn": 83,
-                        "endOffset": 2865
+                        "endOffset": 2903
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1297
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1789,
+                        "startOffset": 1815,
                         "endColumn": 73,
-                        "endOffset": 1858
+                        "endOffset": 1884
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1388
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1863,
+                        "startOffset": 1890,
                         "endColumn": 90,
-                        "endOffset": 1949
+                        "endOffset": 1976
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1465
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1712,
+                        "startOffset": 1737,
                         "endColumn": 76,
-                        "endOffset": 1784
+                        "endOffset": 1809
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1532
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1645,
+                        "startOffset": 1669,
                         "endColumn": 66,
-                        "endOffset": 1707
+                        "endOffset": 1731
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1629
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1548,
+                        "startOffset": 1571,
                         "endColumn": 96,
-                        "endOffset": 1640
+                        "endOffset": 1663
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1713
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 2870,
+                        "startOffset": 2909,
                         "endColumn": 83,
-                        "endOffset": 2949
+                        "endOffset": 2988
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1796
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 2532,
+                        "startOffset": 2567,
                         "endColumn": 82,
-                        "endOffset": 2610
+                        "endOffset": 2645
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1872
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 2456,
+                        "startOffset": 2490,
                         "endColumn": 75,
-                        "endOffset": 2527
+                        "endOffset": 2561
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1951
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 2133,
+                        "startOffset": 2163,
                         "endColumn": 78,
-                        "endOffset": 2207
+                        "endOffset": 2237
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 2035
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1954,
+                        "startOffset": 1982,
                         "endColumn": 83,
-                        "endOffset": 2033
+                        "endOffset": 2061
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 2083
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 144,
                         "startColumn": 4,
-                        "startOffset": 9146,
+                        "startOffset": 9290,
                         "endColumn": 47,
-                        "endOffset": 9189
+                        "endOffset": 9333
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 2163
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 4,
-                        "startOffset": 8930,
+                        "startOffset": 9071,
                         "endColumn": 79,
-                        "endOffset": 9005
+                        "endOffset": 9146
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 2251
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
-                        "startOffset": 9010,
+                        "startOffset": 9152,
                         "endColumn": 87,
-                        "endOffset": 9093
+                        "endOffset": 9235
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 2325
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
-                        "startOffset": 10876,
+                        "startOffset": 11055,
                         "endColumn": 73,
-                        "endOffset": 10945
+                        "endOffset": 11124
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 2373
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 143,
                         "startColumn": 4,
-                        "startOffset": 9098,
+                        "startOffset": 9241,
                         "endColumn": 47,
-                        "endOffset": 9141
+                        "endOffset": 9284
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 2408
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 4,
-                        "startOffset": 7334,
+                        "startOffset": 7446,
                         "endColumn": 42,
-                        "endOffset": 7372
+                        "endOffset": 7484
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 2458
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,
-                        "startOffset": 7729,
+                        "startOffset": 7849,
                         "endColumn": 49,
-                        "endOffset": 7774
+                        "endOffset": 7894
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 2510
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
-                        "startOffset": 4672,
+                        "startOffset": 4741,
                         "endColumn": 51,
-                        "endOffset": 4719
+                        "endOffset": 4788
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 2571
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
-                        "startOffset": 3420,
+                        "startOffset": 3469,
                         "endColumn": 60,
-                        "endOffset": 3476
+                        "endOffset": 3525
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 2636
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 3355,
+                        "startOffset": 3403,
                         "endColumn": 64,
-                        "endOffset": 3415
+                        "endOffset": 3463
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 2701
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 3481,
+                        "startOffset": 3531,
                         "endColumn": 64,
-                        "endOffset": 3541
+                        "endOffset": 3591
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 2745
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
-                        "startOffset": 4724,
+                        "startOffset": 4794,
                         "endColumn": 43,
-                        "endOffset": 4763
+                        "endOffset": 4833
                     }
                 }
             },
@@ -733,13 +733,13 @@
                     "endOffset": 2859
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 823,
+                        "startOffset": 838,
                         "endColumn": 113,
-                        "endOffset": 932
+                        "endOffset": 947
                     }
                 }
             },
@@ -752,13 +752,13 @@
                     "endOffset": 2967
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 715,
+                        "startOffset": 729,
                         "endColumn": 107,
-                        "endOffset": 818
+                        "endOffset": 832
                     }
                 }
             },
@@ -771,13 +771,13 @@
                     "endOffset": 3058
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 937,
+                        "startOffset": 953,
                         "endColumn": 90,
-                        "endOffset": 1023
+                        "endOffset": 1039
                     }
                 }
             },
@@ -790,13 +790,13 @@
                     "endOffset": 3178
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1427,
+                        "startOffset": 1448,
                         "endColumn": 119,
-                        "endOffset": 1542
+                        "endOffset": 1563
                     }
                 }
             },
@@ -809,13 +809,13 @@
                     "endOffset": 3283
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1322,
+                        "startOffset": 1342,
                         "endColumn": 104,
-                        "endOffset": 1422
+                        "endOffset": 1442
                     }
                 }
             },
@@ -828,13 +828,13 @@
                     "endOffset": 3396
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1028,
+                        "startOffset": 1045,
                         "endColumn": 112,
-                        "endOffset": 1136
+                        "endOffset": 1153
                     }
                 }
             },
@@ -847,13 +847,13 @@
                     "endOffset": 3504
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 607,
+                        "startOffset": 620,
                         "endColumn": 107,
-                        "endOffset": 710
+                        "endOffset": 723
                     }
                 }
             },
@@ -866,13 +866,13 @@
                     "endOffset": 3622
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1141,
+                        "startOffset": 1159,
                         "endColumn": 117,
-                        "endOffset": 1254
+                        "endOffset": 1272
                     }
                 }
             },
@@ -885,13 +885,13 @@
                     "endOffset": 3685
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1259,
+                        "startOffset": 1278,
                         "endColumn": 62,
-                        "endOffset": 1317
+                        "endOffset": 1336
                     }
                 }
             },
@@ -904,13 +904,13 @@
                     "endOffset": 3760
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 4,
-                        "startOffset": 8458,
+                        "startOffset": 8590,
                         "endColumn": 74,
-                        "endOffset": 8528
+                        "endOffset": 8660
                     }
                 }
             },
@@ -923,13 +923,13 @@
                     "endOffset": 3826
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 126,
                         "startColumn": 4,
-                        "startOffset": 8022,
+                        "startOffset": 8148,
                         "endColumn": 65,
-                        "endOffset": 8083
+                        "endOffset": 8209
                     }
                 }
             },
@@ -942,13 +942,13 @@
                     "endOffset": 3934
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 4,
-                        "startOffset": 6934,
+                        "startOffset": 7039,
                         "endColumn": 107,
-                        "endOffset": 7037
+                        "endOffset": 7142
                     }
                 }
             },
@@ -961,13 +961,13 @@
                     "endOffset": 3983
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 7580,
+                        "startOffset": 7697,
                         "endColumn": 48,
-                        "endOffset": 7624
+                        "endOffset": 7741
                     }
                 }
             },
@@ -980,13 +980,13 @@
                     "endOffset": 4089
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
-                        "startOffset": 6828,
+                        "startOffset": 6932,
                         "endColumn": 105,
-                        "endOffset": 6929
+                        "endOffset": 7033
                     }
                 }
             },
@@ -999,13 +999,13 @@
                     "endOffset": 4174
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
-                        "startOffset": 6626,
+                        "startOffset": 6728,
                         "endColumn": 84,
-                        "endOffset": 6706
+                        "endOffset": 6808
                     }
                 }
             },
@@ -1018,13 +1018,13 @@
                     "endOffset": 4262
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
-                        "startOffset": 6460,
+                        "startOffset": 6560,
                         "endColumn": 87,
-                        "endOffset": 6543
+                        "endOffset": 6643
                     }
                 }
             },
@@ -1037,13 +1037,13 @@
                     "endOffset": 4340
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
-                        "startOffset": 6548,
+                        "startOffset": 6649,
                         "endColumn": 77,
-                        "endOffset": 6621
+                        "endOffset": 6722
                     }
                 }
             },
@@ -1056,13 +1056,13 @@
                     "endOffset": 4413
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
-                        "startOffset": 11133,
+                        "startOffset": 11318,
                         "endColumn": 72,
-                        "endOffset": 11201
+                        "endOffset": 11386
                     }
                 }
             },
@@ -1075,13 +1075,13 @@
                     "endOffset": 4460
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
-                        "startOffset": 4768,
+                        "startOffset": 4839,
                         "endColumn": 46,
-                        "endOffset": 4810
+                        "endOffset": 4881
                     }
                 }
             },
@@ -1094,13 +1094,13 @@
                     "endOffset": 4516
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 3816,
+                        "startOffset": 3872,
                         "endColumn": 55,
-                        "endOffset": 3867
+                        "endOffset": 3923
                     }
                 }
             },
@@ -1113,13 +1113,13 @@
                     "endOffset": 4591
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 178,
                         "startColumn": 4,
-                        "startOffset": 10801,
+                        "startOffset": 10979,
                         "endColumn": 74,
-                        "endOffset": 10871
+                        "endOffset": 11049
                     }
                 }
             },
@@ -1132,13 +1132,13 @@
                     "endOffset": 4681
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
-                        "startOffset": 7042,
+                        "startOffset": 7148,
                         "endColumn": 89,
-                        "endOffset": 7127
+                        "endOffset": 7233
                     }
                 }
             },
@@ -1151,13 +1151,13 @@
                     "endOffset": 4742
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
-                        "startOffset": 3215,
+                        "startOffset": 3260,
                         "endColumn": 60,
-                        "endOffset": 3271
+                        "endOffset": 3316
                     }
                 }
             },
@@ -1170,13 +1170,13 @@
                     "endOffset": 4803
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 2955,
+                        "startOffset": 2996,
                         "endColumn": 60,
-                        "endOffset": 3011
+                        "endOffset": 3052
                     }
                 }
             },
@@ -1189,13 +1189,13 @@
                     "endOffset": 4870
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
-                        "startOffset": 3148,
+                        "startOffset": 3192,
                         "endColumn": 66,
-                        "endOffset": 3210
+                        "endOffset": 3254
                     }
                 }
             },
@@ -1208,13 +1208,13 @@
                     "endOffset": 4948
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 3276,
+                        "startOffset": 3322,
                         "endColumn": 77,
-                        "endOffset": 3349
+                        "endOffset": 3395
                     }
                 }
             },
@@ -1227,13 +1227,13 @@
                     "endOffset": 5019
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
-                        "startOffset": 3077,
+                        "startOffset": 3120,
                         "endColumn": 70,
-                        "endOffset": 3143
+                        "endOffset": 3186
                     }
                 }
             },
@@ -1246,13 +1246,13 @@
                     "endOffset": 5080
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 3016,
+                        "startOffset": 3058,
                         "endColumn": 60,
-                        "endOffset": 3072
+                        "endOffset": 3114
                     }
                 }
             },
@@ -1265,13 +1265,13 @@
                     "endOffset": 5185
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
-                        "startOffset": 6292,
+                        "startOffset": 6390,
                         "endColumn": 104,
-                        "endOffset": 6392
+                        "endOffset": 6490
                     }
                 }
             },
@@ -1284,13 +1284,13 @@
                     "endOffset": 5243
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 3758,
+                        "startOffset": 3813,
                         "endColumn": 57,
-                        "endOffset": 3811
+                        "endOffset": 3866
                     }
                 }
             },
@@ -1303,13 +1303,13 @@
                     "endOffset": 5292
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
-                        "startOffset": 7377,
+                        "startOffset": 7490,
                         "endColumn": 48,
-                        "endOffset": 7421
+                        "endOffset": 7534
                     }
                 }
             },
@@ -1322,13 +1322,13 @@
                     "endOffset": 5329
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
-                        "startOffset": 7289,
+                        "startOffset": 7400,
                         "endColumn": 44,
-                        "endOffset": 7329
+                        "endOffset": 7440
                     }
                 }
             },
@@ -1341,13 +1341,13 @@
                     "endOffset": 5378
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 4,
-                        "startOffset": 7779,
+                        "startOffset": 7900,
                         "endColumn": 48,
-                        "endOffset": 7823
+                        "endOffset": 7944
                     }
                 }
             },
@@ -1360,13 +1360,13 @@
                     "endOffset": 5424
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 45,
-                        "endOffset": 96
+                        "endOffset": 98
                     }
                 }
             },
@@ -1379,13 +1379,13 @@
                     "endOffset": 5494
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
-                        "startOffset": 8151,
+                        "startOffset": 8279,
                         "endColumn": 69,
-                        "endOffset": 8216
+                        "endOffset": 8344
                     }
                 }
             },
@@ -1398,13 +1398,13 @@
                     "endOffset": 5585
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 129,
                         "startColumn": 4,
-                        "startOffset": 8221,
+                        "startOffset": 8350,
                         "endColumn": 90,
-                        "endOffset": 8307
+                        "endOffset": 8436
                     }
                 }
             },
@@ -1417,13 +1417,13 @@
                     "endOffset": 5648
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 127,
                         "startColumn": 4,
-                        "startOffset": 8088,
+                        "startOffset": 8215,
                         "endColumn": 62,
-                        "endOffset": 8146
+                        "endOffset": 8273
                     }
                 }
             },
@@ -1436,13 +1436,13 @@
                     "endOffset": 5706
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
-                        "startOffset": 6397,
+                        "startOffset": 6496,
                         "endColumn": 62,
-                        "endOffset": 6455
+                        "endOffset": 6554
                     }
                 }
             },
@@ -1455,13 +1455,13 @@
                     "endOffset": 5753
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 4,
-                        "startOffset": 7925,
+                        "startOffset": 8049,
                         "endColumn": 46,
-                        "endOffset": 7967
+                        "endOffset": 8091
                     }
                 }
             },
@@ -1474,13 +1474,13 @@
                     "endOffset": 5799
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 4,
-                        "startOffset": 7828,
+                        "startOffset": 7950,
                         "endColumn": 45,
-                        "endOffset": 7869
+                        "endOffset": 7991
                     }
                 }
             },
@@ -1493,13 +1493,13 @@
                     "endOffset": 5869
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
-                        "startOffset": 5579,
+                        "startOffset": 5667,
                         "endColumn": 69,
-                        "endOffset": 5644
+                        "endOffset": 5732
                     }
                 }
             },
@@ -1512,13 +1512,13 @@
                     "endOffset": 5945
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
-                        "startOffset": 5649,
+                        "startOffset": 5738,
                         "endColumn": 75,
-                        "endOffset": 5720
+                        "endOffset": 5809
                     }
                 }
             },
@@ -1531,13 +1531,13 @@
                     "endOffset": 6041
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
-                        "startOffset": 5725,
+                        "startOffset": 5815,
                         "endColumn": 95,
-                        "endOffset": 5816
+                        "endOffset": 5906
                     }
                 }
             },
@@ -1550,13 +1550,13 @@
                     "endOffset": 6108
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
-                        "startOffset": 5981,
+                        "startOffset": 6074,
                         "endColumn": 66,
-                        "endOffset": 6043
+                        "endOffset": 6136
                     }
                 }
             },
@@ -1569,13 +1569,13 @@
                     "endOffset": 6185
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
-                        "startOffset": 5411,
+                        "startOffset": 5497,
                         "endColumn": 76,
-                        "endOffset": 5483
+                        "endOffset": 5569
                     }
                 }
             },
@@ -1588,13 +1588,13 @@
                     "endOffset": 6254
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
-                        "startOffset": 6124,
+                        "startOffset": 6219,
                         "endColumn": 68,
-                        "endOffset": 6188
+                        "endOffset": 6283
                     }
                 }
             },
@@ -1607,13 +1607,13 @@
                     "endOffset": 6326
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
-                        "startOffset": 5821,
+                        "startOffset": 5912,
                         "endColumn": 71,
-                        "endOffset": 5888
+                        "endOffset": 5979
                     }
                 }
             },
@@ -1626,13 +1626,13 @@
                     "endOffset": 6414
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 4,
-                        "startOffset": 5893,
+                        "startOffset": 5985,
                         "endColumn": 87,
-                        "endOffset": 5976
+                        "endOffset": 6068
                     }
                 }
             },
@@ -1645,13 +1645,13 @@
                     "endOffset": 6490
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
-                        "startOffset": 6048,
+                        "startOffset": 6142,
                         "endColumn": 75,
-                        "endOffset": 6119
+                        "endOffset": 6213
                     }
                 }
             },
@@ -1664,13 +1664,13 @@
                     "endOffset": 6568
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
-                        "startOffset": 5333,
+                        "startOffset": 5418,
                         "endColumn": 77,
-                        "endOffset": 5406
+                        "endOffset": 5491
                     }
                 }
             },
@@ -1683,13 +1683,13 @@
                     "endOffset": 6666
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
-                        "startOffset": 6193,
+                        "startOffset": 6289,
                         "endColumn": 97,
-                        "endOffset": 6286
+                        "endOffset": 6382
                     }
                 }
             },
@@ -1702,13 +1702,13 @@
                     "endOffset": 6757
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
-                        "startOffset": 5488,
+                        "startOffset": 5575,
                         "endColumn": 90,
-                        "endOffset": 5574
+                        "endOffset": 5661
                     }
                 }
             },
@@ -1721,13 +1721,13 @@
                     "endOffset": 6833
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
-                        "startOffset": 11287,
+                        "startOffset": 11476,
                         "endColumn": 90,
-                        "endOffset": 11373
+                        "endOffset": 11562
                     }
                 }
             },
@@ -1740,13 +1740,13 @@
                     "endOffset": 6925
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
-                        "startOffset": 11378,
+                        "startOffset": 11568,
                         "endColumn": 111,
-                        "endOffset": 11485
+                        "endOffset": 11675
                     }
                 }
             },
@@ -1759,13 +1759,13 @@
                     "endOffset": 7004
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
-                        "startOffset": 11207,
+                        "startOffset": 11394,
                         "endColumn": 78,
-                        "endOffset": 11281
+                        "endOffset": 11468
                     }
                 }
             },
@@ -1778,13 +1778,13 @@
                     "endOffset": 7063
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
-                        "startOffset": 10659,
+                        "startOffset": 10833,
                         "endColumn": 58,
-                        "endOffset": 10713
+                        "endOffset": 10887
                     }
                 }
             },
@@ -1797,13 +1797,13 @@
                     "endOffset": 7159
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
-                        "startOffset": 10410,
+                        "startOffset": 10581,
                         "endColumn": 95,
-                        "endOffset": 10501
+                        "endOffset": 10672
                     }
                 }
             },
@@ -1816,13 +1816,13 @@
                     "endOffset": 7226
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
-                        "startOffset": 10506,
+                        "startOffset": 10678,
                         "endColumn": 66,
-                        "endOffset": 10568
+                        "endOffset": 10740
                     }
                 }
             },
@@ -1835,13 +1835,13 @@
                     "endOffset": 7312
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
-                        "startOffset": 10573,
+                        "startOffset": 10746,
                         "endColumn": 85,
-                        "endOffset": 10654
+                        "endOffset": 10827
                     }
                 }
             },
@@ -1854,13 +1854,13 @@
                     "endOffset": 7369
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
-                        "startOffset": 9908,
+                        "startOffset": 10067,
                         "endColumn": 56,
-                        "endOffset": 9960
+                        "endOffset": 10119
                     }
                 }
             },
@@ -1873,13 +1873,13 @@
                     "endOffset": 7435
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
-                        "startOffset": 9965,
+                        "startOffset": 10125,
                         "endColumn": 65,
-                        "endOffset": 10026
+                        "endOffset": 10186
                     }
                 }
             },
@@ -1892,13 +1892,13 @@
                     "endOffset": 7488
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 4,
-                        "startOffset": 10031,
+                        "startOffset": 10192,
                         "endColumn": 52,
-                        "endOffset": 10079
+                        "endOffset": 10240
                     }
                 }
             },
@@ -1911,13 +1911,13 @@
                     "endOffset": 7554
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
-                        "startOffset": 9749,
+                        "startOffset": 9904,
                         "endColumn": 65,
-                        "endOffset": 9810
+                        "endOffset": 9965
                     }
                 }
             },
@@ -1930,13 +1930,13 @@
                     "endOffset": 7610
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 156,
                         "startColumn": 4,
-                        "startOffset": 9815,
+                        "startOffset": 9971,
                         "endColumn": 55,
-                        "endOffset": 9866
+                        "endOffset": 10022
                     }
                 }
             },
@@ -1949,13 +1949,13 @@
                     "endOffset": 7664
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 150,
                         "startColumn": 4,
-                        "startOffset": 9408,
+                        "startOffset": 9558,
                         "endColumn": 53,
-                        "endOffset": 9457
+                        "endOffset": 9607
                     }
                 }
             },
@@ -1968,13 +1968,13 @@
                     "endOffset": 7755
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
-                        "startOffset": 9594,
+                        "startOffset": 9747,
                         "endColumn": 90,
-                        "endOffset": 9680
+                        "endOffset": 9833
                     }
                 }
             },
@@ -1987,13 +1987,13 @@
                     "endOffset": 7819
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
-                        "startOffset": 9685,
+                        "startOffset": 9839,
                         "endColumn": 63,
-                        "endOffset": 9744
+                        "endOffset": 9898
                     }
                 }
             },
@@ -2006,13 +2006,13 @@
                     "endOffset": 7873
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 147,
                         "startColumn": 4,
-                        "startOffset": 9232,
+                        "startOffset": 9379,
                         "endColumn": 53,
-                        "endOffset": 9281
+                        "endOffset": 9428
                     }
                 }
             },
@@ -2025,13 +2025,13 @@
                     "endOffset": 7935
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
-                        "startOffset": 9462,
+                        "startOffset": 9613,
                         "endColumn": 61,
-                        "endOffset": 9519
+                        "endOffset": 9670
                     }
                 }
             },
@@ -2044,13 +2044,13 @@
                     "endOffset": 8005
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 152,
                         "startColumn": 4,
-                        "startOffset": 9524,
+                        "startOffset": 9676,
                         "endColumn": 69,
-                        "endOffset": 9589
+                        "endOffset": 9741
                     }
                 }
             },
@@ -2063,13 +2063,13 @@
                     "endOffset": 8061
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
-                        "startOffset": 9286,
+                        "startOffset": 9434,
                         "endColumn": 55,
-                        "endOffset": 9337
+                        "endOffset": 9485
                     }
                 }
             },
@@ -2082,13 +2082,13 @@
                     "endOffset": 8127
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 149,
                         "startColumn": 4,
-                        "startOffset": 9342,
+                        "startOffset": 9491,
                         "endColumn": 65,
-                        "endOffset": 9403
+                        "endOffset": 9552
                     }
                 }
             },
@@ -2101,13 +2101,13 @@
                     "endOffset": 8180
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 4924,
+                        "startOffset": 4999,
                         "endColumn": 52,
-                        "endOffset": 4972
+                        "endOffset": 5047
                     }
                 }
             },
@@ -2120,13 +2120,13 @@
                     "endOffset": 8231
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
-                        "startOffset": 4873,
+                        "startOffset": 4947,
                         "endColumn": 50,
-                        "endOffset": 4919
+                        "endOffset": 4993
                     }
                 }
             },
@@ -2139,13 +2139,13 @@
                     "endOffset": 8288
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
-                        "startOffset": 4816,
+                        "startOffset": 4889,
                         "endColumn": 56,
-                        "endOffset": 4868
+                        "endOffset": 4941
                     }
                 }
             },
@@ -2158,13 +2158,13 @@
                     "endOffset": 8343
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 136,
                         "startColumn": 4,
-                        "startOffset": 8721,
+                        "startOffset": 8857,
                         "endColumn": 54,
-                        "endOffset": 8771
+                        "endOffset": 8907
                     }
                 }
             },
@@ -2177,13 +2177,13 @@
                     "endOffset": 8421
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 5254,
+                        "startOffset": 5337,
                         "endColumn": 77,
-                        "endOffset": 5327
+                        "endOffset": 5410
                     }
                 }
             },
@@ -2196,13 +2196,13 @@
                     "endOffset": 8490
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
-                        "startOffset": 4980,
+                        "startOffset": 5059,
                         "endColumn": 68,
-                        "endOffset": 5044
+                        "endOffset": 5123
                     }
                 }
             },
@@ -2215,13 +2215,13 @@
                     "endOffset": 8567
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
-                        "startOffset": 5049,
+                        "startOffset": 5129,
                         "endColumn": 76,
-                        "endOffset": 5121
+                        "endOffset": 5201
                     }
                 }
             },
@@ -2234,13 +2234,13 @@
                     "endOffset": 8629
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
-                        "startOffset": 5126,
+                        "startOffset": 5207,
                         "endColumn": 61,
-                        "endOffset": 5183
+                        "endOffset": 5264
                     }
                 }
             },
@@ -2253,13 +2253,13 @@
                     "endOffset": 8695
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
-                        "startOffset": 5188,
+                        "startOffset": 5270,
                         "endColumn": 65,
-                        "endOffset": 5249
+                        "endOffset": 5331
                     }
                 }
             },
@@ -2272,13 +2272,13 @@
                     "endOffset": 8771
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
-                        "startOffset": 11057,
+                        "startOffset": 11241,
                         "endColumn": 75,
-                        "endOffset": 11128
+                        "endOffset": 11312
                     }
                 }
             },
@@ -2291,13 +2291,13 @@
                     "endOffset": 8820
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
-                        "startOffset": 8776,
+                        "startOffset": 8913,
                         "endColumn": 48,
-                        "endOffset": 8820
+                        "endOffset": 8957
                     }
                 }
             },
@@ -2310,13 +2310,13 @@
                     "endOffset": 8879
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 3546,
+                        "startOffset": 3597,
                         "endColumn": 58,
-                        "endOffset": 3600
+                        "endOffset": 3651
                     }
                 }
             },
@@ -2329,13 +2329,13 @@
                     "endOffset": 8949
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 3682,
+                        "startOffset": 3735,
                         "endColumn": 74,
-                        "endOffset": 3752
+                        "endOffset": 3805
                     }
                 }
             },
@@ -2348,13 +2348,13 @@
                     "endOffset": 9066
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
-                        "startOffset": 6711,
+                        "startOffset": 6814,
                         "endColumn": 116,
-                        "endOffset": 6823
+                        "endOffset": 6926
                     }
                 }
             },
@@ -2367,13 +2367,13 @@
                     "endOffset": 9117
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 4,
-                        "startOffset": 7629,
+                        "startOffset": 7747,
                         "endColumn": 50,
-                        "endOffset": 7675
+                        "endOffset": 7793
                     }
                 }
             },
@@ -2386,13 +2386,13 @@
                     "endOffset": 9174
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
-                        "startOffset": 10119,
+                        "startOffset": 10283,
                         "endColumn": 56,
-                        "endOffset": 10171
+                        "endOffset": 10335
                     }
                 }
             },
@@ -2405,13 +2405,13 @@
                     "endOffset": 9241
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
-                        "startOffset": 10176,
+                        "startOffset": 10341,
                         "endColumn": 66,
-                        "endOffset": 10238
+                        "endOffset": 10403
                     }
                 }
             },
@@ -2424,13 +2424,13 @@
                     "endOffset": 9286
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
-                        "startOffset": 10950,
+                        "startOffset": 11130,
                         "endColumn": 44,
-                        "endOffset": 10990
+                        "endOffset": 11170
                     }
                 }
             },
@@ -2443,13 +2443,13 @@
                     "endOffset": 9340
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 4,
-                        "startOffset": 7133,
+                        "startOffset": 7241,
                         "endColumn": 53,
-                        "endOffset": 7182
+                        "endOffset": 7290
                     }
                 }
             },
@@ -2462,13 +2462,13 @@
                     "endOffset": 9413
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
-                        "startOffset": 4104,
+                        "startOffset": 4165,
                         "endColumn": 72,
-                        "endOffset": 4172
+                        "endOffset": 4233
                     }
                 }
             },
@@ -2481,13 +2481,13 @@
                     "endOffset": 9486
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 4031,
+                        "startOffset": 4091,
                         "endColumn": 72,
-                        "endOffset": 4099
+                        "endOffset": 4159
                     }
                 }
             },
@@ -2500,13 +2500,13 @@
                     "endOffset": 9592
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
-                        "startOffset": 3925,
+                        "startOffset": 3984,
                         "endColumn": 105,
-                        "endOffset": 4026
+                        "endOffset": 4085
                     }
                 }
             },
@@ -2519,13 +2519,13 @@
                     "endOffset": 9671
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 4177,
+                        "startOffset": 4239,
                         "endColumn": 78,
-                        "endOffset": 4251
+                        "endOffset": 4313
                     }
                 }
             },
@@ -2538,13 +2538,13 @@
                     "endOffset": 9755
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
-                        "startOffset": 4385,
+                        "startOffset": 4450,
                         "endColumn": 83,
-                        "endOffset": 4464
+                        "endOffset": 4529
                     }
                 }
             },
@@ -2557,13 +2557,13 @@
                     "endOffset": 9850
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
-                        "startOffset": 4469,
+                        "startOffset": 4535,
                         "endColumn": 94,
-                        "endOffset": 4559
+                        "endOffset": 4625
                     }
                 }
             },
@@ -2576,13 +2576,13 @@
                     "endOffset": 9957
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
-                        "startOffset": 4564,
+                        "startOffset": 4631,
                         "endColumn": 106,
-                        "endOffset": 4666
+                        "endOffset": 4733
                     }
                 }
             },
@@ -2595,13 +2595,13 @@
                     "endOffset": 10009
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 3873,
+                        "startOffset": 3931,
                         "endColumn": 51,
-                        "endOffset": 3920
+                        "endOffset": 3978
                     }
                 }
             },
@@ -2614,13 +2614,13 @@
                     "endOffset": 10070
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 4256,
+                        "startOffset": 4319,
                         "endColumn": 60,
-                        "endOffset": 4312
+                        "endOffset": 4375
                     }
                 }
             },
@@ -2633,13 +2633,13 @@
                     "endOffset": 10138
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
-                        "startOffset": 4317,
+                        "startOffset": 4381,
                         "endColumn": 67,
-                        "endOffset": 4380
+                        "endOffset": 4444
                     }
                 }
             },
@@ -2652,13 +2652,13 @@
                     "endOffset": 10211
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 10243,
+                        "startOffset": 10409,
                         "endColumn": 72,
-                        "endOffset": 10311
+                        "endOffset": 10477
                     }
                 }
             },
@@ -2671,13 +2671,13 @@
                     "endOffset": 10260
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 4,
-                        "startOffset": 7680,
+                        "startOffset": 7799,
                         "endColumn": 48,
-                        "endOffset": 7724
+                        "endOffset": 7843
                     }
                 }
             },
@@ -2690,13 +2690,13 @@
                     "endOffset": 10312
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
-                        "startOffset": 7528,
+                        "startOffset": 7644,
                         "endColumn": 51,
-                        "endOffset": 7575
+                        "endOffset": 7691
                     }
                 }
             },
@@ -2709,13 +2709,13 @@
                     "endOffset": 10362
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 4,
-                        "startOffset": 7426,
+                        "startOffset": 7540,
                         "endColumn": 49,
-                        "endOffset": 7471
+                        "endOffset": 7585
                     }
                 }
             },
@@ -2728,13 +2728,13 @@
                     "endOffset": 10424
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 381,
+                        "startOffset": 389,
                         "endColumn": 61,
-                        "endOffset": 438
+                        "endOffset": 446
                     }
                 }
             },
@@ -2747,13 +2747,13 @@
                     "endOffset": 10498
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 171,
+                        "startOffset": 176,
                         "endColumn": 73,
-                        "endOffset": 240
+                        "endOffset": 245
                     }
                 }
             },
@@ -2766,13 +2766,13 @@
                     "endOffset": 10567
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 102,
+                        "startOffset": 106,
                         "endColumn": 68,
-                        "endOffset": 166
+                        "endOffset": 170
                     }
                 }
             },
@@ -2785,13 +2785,13 @@
                     "endOffset": 10643
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 245,
+                        "startOffset": 251,
                         "endColumn": 75,
-                        "endOffset": 316
+                        "endOffset": 322
                     }
                 }
             },
@@ -2804,13 +2804,13 @@
                     "endOffset": 10704
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 504,
+                        "startOffset": 514,
                         "endColumn": 60,
-                        "endOffset": 560
+                        "endOffset": 570
                     }
                 }
             },
@@ -2823,13 +2823,13 @@
                     "endOffset": 10764
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 321,
+                        "startOffset": 328,
                         "endColumn": 59,
-                        "endOffset": 376
+                        "endOffset": 383
                     }
                 }
             },
@@ -2842,13 +2842,13 @@
                     "endOffset": 10825
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 443,
+                        "startOffset": 452,
                         "endColumn": 60,
-                        "endOffset": 499
+                        "endOffset": 508
                     }
                 }
             },
@@ -2861,13 +2861,13 @@
                     "endOffset": 10875
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 214,
                         "startColumn": 4,
-                        "startOffset": 12910,
+                        "startOffset": 13124,
                         "endColumn": 49,
-                        "endOffset": 12955
+                        "endOffset": 13169
                     }
                 }
             },
@@ -2880,13 +2880,13 @@
                     "endOffset": 10928
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
-                        "startOffset": 11544,
+                        "startOffset": 11737,
                         "endColumn": 52,
-                        "endOffset": 11592
+                        "endOffset": 11785
                     }
                 }
             },
@@ -2899,13 +2899,13 @@
                     "endOffset": 11010
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
-                        "startOffset": 12369,
+                        "startOffset": 12575,
                         "endColumn": 81,
-                        "endOffset": 12446
+                        "endOffset": 12652
                     }
                 }
             },
@@ -2918,13 +2918,13 @@
                     "endOffset": 11075
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
-                        "startOffset": 12673,
+                        "startOffset": 12883,
                         "endColumn": 64,
-                        "endOffset": 12733
+                        "endOffset": 12943
                     }
                 }
             },
@@ -2937,13 +2937,13 @@
                     "endOffset": 11150
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
-                        "startOffset": 12738,
+                        "startOffset": 12949,
                         "endColumn": 74,
-                        "endOffset": 12808
+                        "endOffset": 13019
                     }
                 }
             },
@@ -2956,13 +2956,13 @@
                     "endOffset": 11206
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
-                        "startOffset": 11750,
+                        "startOffset": 11946,
                         "endColumn": 55,
-                        "endOffset": 11801
+                        "endOffset": 11997
                     }
                 }
             },
@@ -2975,13 +2975,13 @@
                     "endOffset": 11269
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
-                        "startOffset": 11687,
+                        "startOffset": 11882,
                         "endColumn": 62,
-                        "endOffset": 11745
+                        "endOffset": 11940
                     }
                 }
             },
@@ -2994,13 +2994,13 @@
                     "endOffset": 11327
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
-                        "startOffset": 11869,
+                        "startOffset": 12067,
                         "endColumn": 57,
-                        "endOffset": 11922
+                        "endOffset": 12120
                     }
                 }
             },
@@ -3013,13 +3013,13 @@
                     "endOffset": 11388
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
-                        "startOffset": 12035,
+                        "startOffset": 12235,
                         "endColumn": 60,
-                        "endOffset": 12091
+                        "endOffset": 12291
                     }
                 }
             },
@@ -3032,13 +3032,13 @@
                     "endOffset": 11496
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
-                        "startOffset": 11927,
+                        "startOffset": 12126,
                         "endColumn": 107,
-                        "endOffset": 12030
+                        "endOffset": 12229
                     }
                 }
             },
@@ -3051,13 +3051,13 @@
                     "endOffset": 11559
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
-                        "startOffset": 11806,
+                        "startOffset": 12003,
                         "endColumn": 62,
-                        "endOffset": 11864
+                        "endOffset": 12061
                     }
                 }
             },
@@ -3070,13 +3070,13 @@
                     "endOffset": 11640
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 12287,
+                        "startOffset": 12491,
                         "endColumn": 80,
-                        "endOffset": 12363
+                        "endOffset": 12567
                     }
                 }
             },
@@ -3089,13 +3089,13 @@
                     "endOffset": 11702
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
-                        "startOffset": 12160,
+                        "startOffset": 12362,
                         "endColumn": 61,
-                        "endOffset": 12217
+                        "endOffset": 12419
                     }
                 }
             },
@@ -3108,13 +3108,13 @@
                     "endOffset": 11766
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
-                        "startOffset": 12096,
+                        "startOffset": 12297,
                         "endColumn": 63,
-                        "endOffset": 12155
+                        "endOffset": 12356
                     }
                 }
             },
@@ -3127,13 +3127,13 @@
                     "endOffset": 11829
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
-                        "startOffset": 13584,
+                        "startOffset": 13810,
                         "endColumn": 67,
-                        "endOffset": 13647
+                        "endOffset": 13873
                     }
                 }
             },
@@ -3146,13 +3146,13 @@
                     "endOffset": 11919
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
-                        "startOffset": 11597,
+                        "startOffset": 11791,
                         "endColumn": 89,
-                        "endOffset": 11682
+                        "endOffset": 11876
                     }
                 }
             },
@@ -3165,13 +3165,13 @@
                     "endOffset": 11969
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
-                        "startOffset": 12960,
+                        "startOffset": 13175,
                         "endColumn": 49,
-                        "endOffset": 13005
+                        "endOffset": 13220
                     }
                 }
             },
@@ -3184,13 +3184,13 @@
                     "endOffset": 12072
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
-                        "startOffset": 8826,
+                        "startOffset": 8965,
                         "endColumn": 102,
-                        "endOffset": 8924
+                        "endOffset": 9063
                     }
                 }
             },
@@ -3203,13 +3203,13 @@
                     "endOffset": 12130
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
-                        "startOffset": 13063,
+                        "startOffset": 13280,
                         "endColumn": 57,
-                        "endOffset": 13116
+                        "endOffset": 13333
                     }
                 }
             },
@@ -3222,13 +3222,13 @@
                     "endOffset": 12187
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
-                        "startOffset": 13121,
+                        "startOffset": 13339,
                         "endColumn": 56,
-                        "endOffset": 13173
+                        "endOffset": 13391
                     }
                 }
             },
@@ -3241,13 +3241,13 @@
                     "endOffset": 12240
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
-                        "startOffset": 13010,
+                        "startOffset": 13226,
                         "endColumn": 52,
-                        "endOffset": 13058
+                        "endOffset": 13274
                     }
                 }
             },
@@ -3260,13 +3260,13 @@
                     "endOffset": 12291
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
-                        "startOffset": 12859,
+                        "startOffset": 13072,
                         "endColumn": 50,
-                        "endOffset": 12905
+                        "endOffset": 13118
                     }
                 }
             },
@@ -3279,13 +3279,13 @@
                     "endOffset": 12354
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
-                        "startOffset": 13737,
+                        "startOffset": 13965,
                         "endColumn": 62,
-                        "endOffset": 13795
+                        "endOffset": 14023
                     }
                 }
             },
@@ -3298,13 +3298,13 @@
                     "endOffset": 12417
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 229,
                         "startColumn": 4,
-                        "startOffset": 13800,
+                        "startOffset": 14029,
                         "endColumn": 62,
-                        "endOffset": 13858
+                        "endOffset": 14087
                     }
                 }
             },
@@ -3317,13 +3317,13 @@
                     "endOffset": 12473
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
-                        "startOffset": 13240,
+                        "startOffset": 13460,
                         "endColumn": 55,
-                        "endOffset": 13291
+                        "endOffset": 13511
                     }
                 }
             },
@@ -3336,13 +3336,13 @@
                     "endOffset": 12534
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
-                        "startOffset": 13351,
+                        "startOffset": 13573,
                         "endColumn": 60,
-                        "endOffset": 13407
+                        "endOffset": 13629
                     }
                 }
             },
@@ -3355,13 +3355,13 @@
                     "endOffset": 12589
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
-                        "startOffset": 13296,
+                        "startOffset": 13517,
                         "endColumn": 54,
-                        "endOffset": 13346
+                        "endOffset": 13567
                     }
                 }
             },
@@ -3374,13 +3374,13 @@
                     "endOffset": 12674
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 227,
                         "startColumn": 4,
-                        "startOffset": 13652,
+                        "startOffset": 13879,
                         "endColumn": 84,
-                        "endOffset": 13732
+                        "endOffset": 13959
                     }
                 }
             },
@@ -3393,13 +3393,13 @@
                     "endOffset": 12730
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
-                        "startOffset": 13412,
+                        "startOffset": 13635,
                         "endColumn": 55,
-                        "endOffset": 13463
+                        "endOffset": 13686
                     }
                 }
             },
@@ -3412,13 +3412,13 @@
                     "endOffset": 12791
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
-                        "startOffset": 13523,
+                        "startOffset": 13748,
                         "endColumn": 60,
-                        "endOffset": 13579
+                        "endOffset": 13804
                     }
                 }
             },
@@ -3431,13 +3431,13 @@
                     "endOffset": 12846
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 224,
                         "startColumn": 4,
-                        "startOffset": 13468,
+                        "startOffset": 13692,
                         "endColumn": 54,
-                        "endOffset": 13518
+                        "endOffset": 13742
                     }
                 }
             },
@@ -3450,13 +3450,13 @@
                     "endOffset": 12892
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 212,
                         "startColumn": 4,
-                        "startOffset": 12813,
+                        "startOffset": 13025,
                         "endColumn": 45,
-                        "endOffset": 12854
+                        "endOffset": 13066
                     }
                 }
             },
@@ -3469,13 +3469,13 @@
                     "endOffset": 12954
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
-                        "startOffset": 13178,
+                        "startOffset": 13397,
                         "endColumn": 61,
-                        "endOffset": 13235
+                        "endOffset": 13454
                     }
                 }
             },
@@ -3488,13 +3488,13 @@
                     "endOffset": 13048
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
-                        "startOffset": 13863,
+                        "startOffset": 14093,
                         "endColumn": 93,
-                        "endOffset": 13952
+                        "endOffset": 14182
                     }
                 }
             },
@@ -3507,13 +3507,13 @@
                     "endOffset": 13113
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
-                        "startOffset": 12222,
+                        "startOffset": 12425,
                         "endColumn": 64,
-                        "endOffset": 12282
+                        "endOffset": 12485
                     }
                 }
             },
@@ -3526,13 +3526,13 @@
                     "endOffset": 13187
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
-                        "startOffset": 13957,
+                        "startOffset": 14188,
                         "endColumn": 73,
-                        "endOffset": 14026
+                        "endOffset": 14257
                     }
                 }
             },
@@ -3545,13 +3545,13 @@
                     "endOffset": 13240
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
-                        "startOffset": 11491,
+                        "startOffset": 11683,
                         "endColumn": 52,
-                        "endOffset": 11539
+                        "endOffset": 11731
                     }
                 }
             },
@@ -3564,13 +3564,13 @@
                     "endOffset": 13322
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 12451,
+                        "startOffset": 12658,
                         "endColumn": 81,
-                        "endOffset": 12528
+                        "endOffset": 12735
                     }
                 }
             },
@@ -3583,13 +3583,13 @@
                     "endOffset": 13387
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
-                        "startOffset": 12533,
+                        "startOffset": 12741,
                         "endColumn": 64,
-                        "endOffset": 12593
+                        "endOffset": 12801
                     }
                 }
             },
@@ -3602,13 +3602,13 @@
                     "endOffset": 13462
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
-                        "startOffset": 12598,
+                        "startOffset": 12807,
                         "endColumn": 74,
-                        "endOffset": 12668
+                        "endOffset": 12877
                     }
                 }
             },
@@ -3621,13 +3621,13 @@
                     "endOffset": 13512
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
-                        "startOffset": 7972,
+                        "startOffset": 8097,
                         "endColumn": 49,
-                        "endOffset": 8017
+                        "endOffset": 8142
                     }
                 }
             },
@@ -3640,13 +3640,13 @@
                     "endOffset": 13564
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 7476,
+                        "startOffset": 7591,
                         "endColumn": 51,
-                        "endOffset": 7523
+                        "endOffset": 7638
                     }
                 }
             },
@@ -3659,13 +3659,13 @@
                     "endOffset": 13600
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
-                        "startOffset": 7245,
+                        "startOffset": 7355,
                         "endColumn": 43,
-                        "endOffset": 7284
+                        "endOffset": 7394
                     }
                 }
             },
@@ -3678,13 +3678,13 @@
                     "endOffset": 13639
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 4,
-                        "startOffset": 8533,
+                        "startOffset": 8666,
                         "endColumn": 38,
-                        "endOffset": 8567
+                        "endOffset": 8700
                     }
                 }
             },
@@ -3697,13 +3697,13 @@
                     "endOffset": 13697
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 4,
-                        "startOffset": 7187,
+                        "startOffset": 7296,
                         "endColumn": 57,
-                        "endOffset": 7240
+                        "endOffset": 7349
                     }
                 }
             },
@@ -3716,13 +3716,13 @@
                     "endOffset": 13774
                 },
                 "from": {
-                    "file": "/Users/xinran/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/values-en/rc_strings.xml",
+                    "file": "D:\\mygithub\\QXAndroidAppGG\\IMRongCallKit\\src\\main\\res\\values-en\\rc_strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 3605,
+                        "startOffset": 3657,
                         "endColumn": 76,
-                        "endOffset": 3677
+                        "endOffset": 3729
                     }
                 }
             }

@@ -33,4 +33,4 @@
         android:gravity="center"
         android:textColor="#ffffff"
         android:textSize="16sp" />
-</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_listitem_select_member.xml -->
+</LinearLayout>

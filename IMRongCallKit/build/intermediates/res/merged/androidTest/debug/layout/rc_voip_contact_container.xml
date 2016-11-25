@@ -11,4 +11,4 @@
     android:listSelector="@android:color/transparent"
     android:layout_height="200dp">
 
-</ScrollView><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_contact_container.xml --><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/bundles/debug/res/layout/rc_voip_contact_container.xml -->
+</ScrollView>

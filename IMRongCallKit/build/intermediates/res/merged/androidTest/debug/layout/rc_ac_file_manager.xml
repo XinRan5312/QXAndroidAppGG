@@ -120,4 +120,4 @@
     </LinearLayout>
     <View
         style="@style/rc_ac_file_manager_line"/>
-</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_ac_file_manager.xml --><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/build/intermediates/bundles/debug/res/layout/rc_ac_file_manager.xml -->
+</LinearLayout>

@@ -23,4 +23,4 @@
         android:textColor="@color/rc_voice_color"
         android:text="00:00"/>
 
-</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_float_box.xml -->
+</LinearLayout>

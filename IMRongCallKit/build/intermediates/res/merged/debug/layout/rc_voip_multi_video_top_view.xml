@@ -52,4 +52,4 @@
         android:layout_toLeftOf="@+id/rc_voip_call_add"
         android:src="@drawable/rc_voip_switch_camera"
         android:onClick="onSwitchCameraClick"/>
-</RelativeLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_multi_video_top_view.xml -->
+</RelativeLayout>

@@ -56,4 +56,4 @@
         android:layout_height="match_parent">
 
     </ListView>
-</LinearLayout><!-- From: file:/D:/mygithub/QXAndroidAppGG/IMRongCallKit/src/main/res/layout/rc_voip_activity_select_member.xml -->
+</LinearLayout>
