@@ -391,7 +391,7 @@ public abstract class BaseActivity extends FragmentActivity implements BaseActIn
 
     @Override
     public Handler getHandler() {
-        return null;
+        return new Handler(getMainLooper());
     }
 
     /**
